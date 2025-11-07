@@ -2,17 +2,11 @@
   <img src="https://raw.githubusercontent.com/Dev0forgeLabs/docs/main/assets/branding/header_banner.png" width="800" alt="Dev0forgeLabs Banner"/>
 </p>
 
-# Dev0forgeLabs
-**Data-driven discipline.**  
-*Turning resilience into a science.*
-
----
-
-### The Ecosystem
+## The Ecosystem
 | Project | Description |
 |----------|-------------|
 | **[freedeetrading](https://github.com/Dev0forgeLabs/)** | Open-core quant research and execution framework (coming soon). |
-| **[Community](https://github.com/Dev0forgeLabs/)** | Collaborative hub for sharing automation workflows, scenario packs, and strategy development blueprints (coming soon). |
+| **[Labs](https://github.com/Dev0forgeLabs/)** | Collaborative lab for sharing automation workflows, scenario packs, and strategy development blueprints (coming soon). |
 
 ---
 
