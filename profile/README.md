@@ -12,8 +12,7 @@
 | Project | Description |
 |----------|-------------|
 | **[freedeetrading](https://github.com/Dev0forgeLabs/)** | Open-core quant research and execution framework (coming soon). |
-| **[Docs](https://github.com/Dev0forgeLabs/docs)** | Brand and infrastructure documentation. |
-| **[Scenarios](https://github.com/Dev0forgeLabs/)** | Assistant, Scenarios, and orchestration tools  (coming soon). |
+| **[Community](https://github.com/Dev0forgeLabs/)** | Collaborative hub for sharing automation workflows, scenario packs, and strategy development blueprints (coming soon). |
 
 ---
 
