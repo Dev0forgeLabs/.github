@@ -22,5 +22,3 @@
   <img src="https://raw.githubusercontent.com/Dev0forgeLabs/docs/main/assets/branding/Dev0forgeLabs.png" height="64" title="Dev0forgeLabs" />
   <img src="https://raw.githubusercontent.com/Dev0forgeLabs/docs/main/assets/branding/freedeetrading.png" height="64" title="freedeetrading" />
 </p>
-
-> One creator. One lab. One framework.
