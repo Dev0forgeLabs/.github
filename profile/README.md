@@ -6,7 +6,7 @@
 | Project | Description |
 |----------|-------------|
 | **[freedeetrading](https://github.com/Dev0forgeLabs/)** | Open-core quant research and execution framework (coming soon). |
-| **[Labs](https://github.com/Dev0forgeLabs/)** | Collaborative lab for sharing automation workflows, scenario packs, and strategy development blueprints (coming soon). |
+| **[Community Labs](https://github.com/Dev0forgeLabs/)** | Collaborative lab for sharing automation workflows, scenario packs, and strategy development blueprints (coming soon). |
 
 ---
 
